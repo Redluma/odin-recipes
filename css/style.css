@@ -1,0 +1,10 @@
+* {
+    font-family: Arial, sans-serif
+}
+body {
+    background-color: #f5eacc;
+}
+.food-thumbnail {
+    height: 400px;
+    width: auto;
+}
